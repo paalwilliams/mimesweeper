@@ -46,6 +46,11 @@ div {
   box-sizing: border-box;
 }
 
+.mime {
+    background-image: url('images/mime.jpg');
+    background-position: center;
+    background-size: contain;
+}
 .one {
   color: #e76346;
 }
